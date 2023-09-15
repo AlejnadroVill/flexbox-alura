@@ -5,7 +5,7 @@
 .rodapePrincipal-patrocinadores-list{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-around; /* we used space around instead space between to move the logos a little bit to the right */
     width: 70%;
     margin-right: 5%;
 }
